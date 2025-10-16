@@ -2,4 +2,6 @@
 comment0.target=Ejercicios
 comment1.params=
 comment1.target=void\ ejercicio1()
-numComments=2
+comment2.params=
+comment2.target=void\ ejercicio2()
+numComments=3
