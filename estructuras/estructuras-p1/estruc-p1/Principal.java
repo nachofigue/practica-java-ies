@@ -5,7 +5,9 @@ public class Principal{
 
     public static void main(){
     
+        Ejercicios ej=new Ejercicios();
         
+        ej.ejercicio1();
     
     }
 
